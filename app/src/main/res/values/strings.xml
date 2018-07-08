@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TextMe</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+    <string name="appwidget_text">TextMe</string>
+    <string name="add_widget">Add widget</string>
+
+        <string name="admin_information">Admin information: Name: AmrKamal
+        Email:amr2010kamal@gmail.com
+    </string>
+
+    <string name="signin">Signed in!</string>
+    <string name="signincanceled">Sign in canceled</string>
+    <string name="Name">Name</string>
+    <string name="Message">Message</string>
+    <string name="imageinmessage">Image In Message</string>
+    <string name="image">image</string>
+    <string name="sendimage">Choose Image And Send</string>
+    <string name="errorfetchingconfig" >Error fetching config</string>
+    <string name="enter_your_message">Enter your Message</string>
+</resources>
